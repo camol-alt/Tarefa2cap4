@@ -13,7 +13,11 @@ Haverá também um temporizador com um alarme ajustado com atraso de 3 segundos 
 Explicação: 
 Deste modo é constituído este programa realizando os processos de Clock e temporizadores; que contribuem para o aprimoramento dos códigos.
 
-LINK DO VÍDEO EXPLICATIVO:
+LINK DO VÍDEO ilustrativo:
+
+Link da simulação no Wokwi:
+https://drive.google.com/file/d/1n428C1JiAL2EgZHTPmbpGaj9uhkpr5EQ/view?usp=sharing
+
 Além de utilizar o simulador Wokwi foi utilizado a placa raspberry pi pico. Desta forma para simplificar a compreensão foi feito um pequeno vídeo para demonstrar essa utilização na Placa. 
 https://drive.google.com/file/d/1CXfhxBV8Oe-l-qyMRk473RDoZRZHAFo7/view?usp=sharing
 
