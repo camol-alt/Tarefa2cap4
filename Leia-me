@@ -1,0 +1,21 @@
+Tarefa Temporizador de um disparo.
+Objetivo: Esse projeto tem como principal intenção: a realização e compreensão dos conteúdos abordados sobre  Clock e Temporizadores em microcontroladores.
+Foi utilizado para realizar uma simulação:
+•1x Placa Raspberry Pi Pico 
+• 03 LEDs (azul, vermelho e verde) 
+• 03 Resistores de 330 Ω.
+• 01 Botão ( Pushbutton)
+• Simulador WoKi
+
+EXEMPLO DE EXECUÇÃO:
+Ao pressionar o botão os três leds deverão ser ligados todos em nível alto a partir da primeira rotina se iniciará uma rotina de atraso onde dois leds. 
+Haverá também um temporizador com um alarme ajustado com atraso de 3 segundos ( 3.000ms), implementando assim também a função  call-back que complementará o código.
+Explicação: 
+Deste modo é constituído este programa realizando os processos de Clock e temporizadores; que contribuem para o aprimoramento dos códigos.
+
+LINK DO VÍDEO EXPLICATIVO:
+Além de utilizar o simulador Wokwi foi utilizado a placa raspberry pi pico. Desta forma para simplificar a compreensão foi feito um pequeno vídeo para demonstrar essa utilização na Placa. 
+https://drive.google.com/file/d/1CXfhxBV8Oe-l-qyMRk473RDoZRZHAFo7/view?usp=sharing
+
+PROJETO DESENVOLVIDO POR:
+Camile Vitória Lino dos Santos.
