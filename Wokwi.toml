@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'C:\Users\camil\OneDrive\Documentos\Trabalho embarca tec\tarefa codigo 10\blink.uf2'
+elf = 'C:\Users\camil\OneDrive\Documentos\Trabalho embarca tec\tarefa codigo 10\blink.elf'
